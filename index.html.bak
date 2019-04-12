@@ -26,10 +26,10 @@
                         <small class="prefix">好耶</small><span class="name no-wrap">% <span class="face">(&lt;ゝω·) ~☆</span></span>
                     </h1>
                     <div class="small-labels">
-                        <a alt="link" class="label" href="https://fyh.moe">
+                        <a alt="link" class="label" href="https://blog.fyh.moe">
                             <i aria-hidden="true" class="fa fa-map-marker"></i>
-                            <span class="title">typecho</span>
-                            <span class="link">blog</span>
+                            <span class="title">Hexo</span>
+                            <span class="link">Blog</span>
                         </a>
                         <div alt="languages" class="label alt">
                             <i aria-hidden="true" class="fas fa-language"></i>
